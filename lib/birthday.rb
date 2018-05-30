@@ -6,7 +6,10 @@
 
 def happy_birthday(birthday_kids)
   
-  birthday_kids.each do |kids, name
+  birthday_kids.each do |kids_name, age|
+    
+    
+  end
   
   
   
